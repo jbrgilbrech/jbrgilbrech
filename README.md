@@ -1,6 +1,6 @@
 💻 IT Engineer | Soon-to-be Web Developer @ Louisville Geek
 
-Hello! I'm an IT Engineer with a strong passion for web development, currently on the path to becoming a Web Developer at Louisville Geek. My journey in technology has been fueled by a love for problem-solving and continuous learning.
+Hello! I'm a Director of Operations for Grapefruit Group LLC, an asset management firm. We specialize in B2C and B2B direct sales acrosss multiple brands. Looking to get back into being a System Administrator. 
 🛠️ Skills and Interests
 
     Operating Systems: Huge fan of Linux! 🐧
