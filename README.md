@@ -6,7 +6,7 @@ Hello! I'm an IT Engineer with a strong passion for web development, currently o
     Operating Systems: Huge fan of Linux! 🐧
     Web Development: Building robust and responsive websites
     Certifications:
-        Currently pursuing MS-102 🏅
+        MS-102 🏅
         Working towards my RHCSA (Red Hat Certified System Administrator) 📜
 
 🌐 Connect with Me
