@@ -1,4 +1,3 @@
-💻 IT Engineer | Soon-to-be Web Developer @ Louisville Geek
 
 Hello! I'm a Director of Operations for Grapefruit Group LLC, an asset management firm. We specialize in B2C and B2B direct sales acrosss multiple brands. Looking to get back into being a System Administrator. 
 🛠️ Skills and Interests
